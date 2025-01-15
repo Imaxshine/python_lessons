@@ -1,0 +1,6 @@
+name = str(input("Enter Your name please: "))
+salary = int(input("Your salary please: "))
+location = str(input("Your residential area: "))
+print("My name is {}".format(name.upper()))
+print("Salary: ",format(salary, ',.2f'))
+print("Residantial: ",location.upper())
