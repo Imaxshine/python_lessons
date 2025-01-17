@@ -4,3 +4,4 @@ if (password == "maxshine"):
     print("The password is correct")
 else:
     print("The password {} is not correct".format(password))
+    print("------------------------------------------")
